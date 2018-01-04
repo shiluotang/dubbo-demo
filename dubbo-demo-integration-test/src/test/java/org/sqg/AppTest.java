@@ -27,7 +27,7 @@ public class AppTest {
             }
         }
     }
-    
+
     @Test
     public void testDubboServiceOverZooKeeperRegistry() {
         try (GenericApplicationContext providerContext = new
